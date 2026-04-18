@@ -1,8 +1,8 @@
 # About
 A simple and intuitive system to manage your student records.
 
-This project is built using the tkinter and psycopg2 libraries. `tkinter` for the UI and `psycopg2` for handling the PostgreSQL database and
-it's quries.
+This project is built using the `tkinter` and `psycopg2` libraries. `tkinter` for the UI and `psycopg2` for handling the PostgreSQL database and
+it's queries.
 
 **NOTE!** This project is still in development.
 
